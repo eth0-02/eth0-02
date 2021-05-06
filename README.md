@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="novatorem-eth0-02.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ef6f60d00a784e09be76f53732df240d)
+[![Spotify](https://eth0-02.vercel.app/api/spotify)](https://open.spotify.com/user/wt8a9cn8ah7f8iqq96djp7qyl)
 
 ### Connect with me:
 
