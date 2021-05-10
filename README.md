@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm eth0-02</h1>
-<h3 align="center">A passionate frontend and backend developer from Kenya</h3>
+<h3 align="center">A passionate, coder, frontend and backend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eth0-02&label=Profile%20views&color=0e75b6&style=flat" alt="eth0-02" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Shamcode x Jekyll](shamcode.com)
 
-- 🌱 I’m currently learning **vite**
+- 🌱 I’m currently learning **vite, go**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
-- 💬 Ask me about **static sites, android custom roms**
+- 💬 Ask me about **static sites, jamstack,next.js, react, vercel, netilfy, lavarel**
 
 - 📫 How to reach me **r.god4@aol.com**
 
