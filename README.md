@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm eth0-02</h1>
+<h1 align="center">[![Hey, I'm eth0-02](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f577-fe0f&text=Hey%252C%2520I%27m%2520eth0-02)](https://pimp-my-readme.webapp.io)</h1>
 <h3 align="center">A passionate coder, graphic designer, frontend and backend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eth0-02&label=Profile%20views&color=0e75b6&style=flat" alt="eth0-02" /> </p>
