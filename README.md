@@ -1,5 +1,5 @@
 <h1 align="center">[![Hey, I'm eth0-02]</h1>
-<h3 align="center">A passionate coder, graphic designer, frontend and backend developer from Kenya</h3>
+<h3 align="center">Full stack dev from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eth0-02&label=Profile%20views&color=0e75b6&style=flat" alt="eth0-02" /> </p>
 
