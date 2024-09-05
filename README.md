@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/blunters" target="blank"><img src="https://img.shields.io/twitter/follow/blunters?logo=twitter&style=for-the-badge" alt="blunters" /></a> </p>
 
-- 🔭 I’m currently working on [Shamcode x Jekyll](shamcode.com)
+- 🔭 I’m currently working on GIS solutions
 
 - 🌱 I’m currently learning **vite, go**
 
