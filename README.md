@@ -1,4 +1,4 @@
-# 🌍 Alfie/Eth0-02
+# 🌍 Alfie/Kostas/Eth0-02
 
 ## 🚀 About Me
 I'm a **GIS Specialist**, **Environmental Specialist Expert**, and **Full-Stack Developer** passionate about **sustainable development, open-source mapping, and data-driven solutions**. I specialize in **flood mitigation, irrigation mapping, environmental impact assessments**, and **web development** with seamless **API integrations**.
@@ -8,6 +8,7 @@ I'm a **GIS Specialist**, **Environmental Specialist Expert**, and **Full-Stack 
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eth0-02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Alfrick's Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eth0-02&theme=tokyonight&hide_border=true" alt="Alfrick's Streak" height="165">
 </div>
 
 ---
@@ -17,6 +18,7 @@ I have actively contributed to **open-source mapping** and **disaster risk reduc
 
 ✅ **Flood Mitigation & Mapping** 🌊 – Using **GIS & remote sensing** to analyze flood-prone areas and improve disaster preparedness.  
 ✅ **OpenStreetMap (OSM) Contributions** 🗺️ – Adding **critical geographic data** for emergency response and urban planning.  
+✅ **Humanitarian OpenStreetMap Team (HOTOSM) Projects** – Contributed to mapping projects such as [HOTOSM Task 16650](https://tasks.hotosm.org/projects/16650).  
 ✅ **Climate Change & Water Resource Management** 💧 – Leveraging **spatial analysis** to support irrigation and sustainable water projects.  
 
 #### **OSM Contributions**
@@ -37,8 +39,37 @@ I have actively contributed to **open-source mapping** and **disaster risk reduc
 
 ---
 
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-008000?style=for-the-badge&logo=gis&logoColor=white)
+
+---
+
 ## 👨‍💻 Connect With Me
-📧 Email: alfrickonyinkwa@gmail.com  
+💎 Email: alfrickonyinkwa@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/alfrick-onyinkwa/)  
 🐝 [Twitter](https://twitter.com/eth0-02)  
-🌍 [Portfolio](#) *(Coming Soon!)*  
+🌐 [Portfolio](#) *(Coming Soon!)*  
+
+---
+
+## 🌟 GitHub Achievements & Contributions
+
+### **🌟 GitHub Trophy Board**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eth0-02&theme=onedark&margin-w=10" alt="GitHub Trophy">
+</div>
+
+### **💡 GitHub Contribution Heatmap**
+<div align="center">
+  <img src="https://ghchart.rshah.org/eth0-02" alt="GitHub Contribution Heatmap" width="600">
+</div>
+
+
+---
+
+> *Inspired by open-source, driven by innovation, and powered by GIS & full-stack development!*
