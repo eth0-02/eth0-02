@@ -51,8 +51,7 @@ I have actively contributed to **open-source mapping** and **disaster risk reduc
 
 ## 👨‍💻 Connect With Me
 💎 Email: alfrickonyinkwa@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/alfrick-onyinkwa/)  
-🐝 [Twitter](https://twitter.com/eth0-02)  
+🔗 [LinkedIn](https://www.linkedin.com/in/alfrick-onyinkwa/)   
 🌐 [Portfolio](#) *(Coming Soon!)*  
 
 ---
