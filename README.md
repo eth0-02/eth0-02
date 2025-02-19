@@ -1,7 +1,7 @@
 # 🌍 Alfie/Eth0-02
 
 ## 🚀 About Me
-I'm a **GIS Specialist**, **HSE Expert**, and **Full-Stack Developer** passionate about **sustainable development, open-source mapping, and data-driven solutions**. I specialize in **flood mitigation, irrigation mapping, environmental impact assessments**, and **web development** with seamless **API integrations**.
+I'm a **GIS Specialist**, **Environmental Specialist Expert**, and **Full-Stack Developer** passionate about **sustainable development, open-source mapping, and data-driven solutions**. I specialize in **flood mitigation, irrigation mapping, environmental impact assessments**, and **web development** with seamless **API integrations**.
 
 ---
 
