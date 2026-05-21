@@ -284,7 +284,6 @@ I'm passionate about collaborating on projects that address **climate resilience
 <div align="center">
   <sub>⭐️ From <a href="https://github.com/eth0-02" style="color: #4A9EFF;">Alfrick Onyinkwa</a> with passion for climate tech and geospatial intelligence</sub>
 </div>
-Testing GitHub achievements.
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"
