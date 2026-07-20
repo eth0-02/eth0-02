@@ -1,13 +1,13 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00441B,100:1F6F50&height=250&section=header&text=Alfrick%20Onyinkwa&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=Geospatial%20%26%20Climate%20Data%20Developer&descAlignY=58&descSize=20"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00441B,100:1F6F50&height=250&section=header&text=ethoX&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Geospatial%20%E2%80%A2%20AI%2FLLM%20%E2%80%A2%20Climate%20Tech&descAlignY=58&descSize=20"
   width="100%"
-  alt="Alfrick Onyinkwa — Geospatial and Climate Data Developer"
+  alt="ethoX — Geospatial, AI/LLM and Climate Tech"
 />
 
 <a href="mailto:alfrickonyinkwa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00441B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alfrick Onyinkwa" />
+  <img src="https://img.shields.io/badge/Email-00441B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email ethoX" />
 </a>
 <a href="https://www.linkedin.com/in/alfrick-onyinkwa/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
@@ -18,55 +18,68 @@
 
 </div>
 
-## About me
+## About
 
-I am a **geospatial and climate data developer** based in Nairobi, Kenya. I build data pipelines, spatial analyses, maps, APIs, and decision-support dashboards for **water resources, irrigation, climate resilience, and environmental management**.
+**ethoX** is my technical identity for building practical software across **geospatial systems, artificial intelligence, LLM applications, automation, data platforms, SaaS, and climate technology**.
 
-I currently support the development of water-accounting and geospatial dashboard tools at the **International Water Management Institute (IWMI)**, with a focus on turning Earth-observation data into information that technical teams and decision-makers can use.
+My work connects software engineering with real-world problems: spatial data processing, decision-support dashboards, environmental intelligence, workflow automation, and AI-assisted tools.
 
 ```text
-Earth observation → Geospatial processing → APIs and data models → Interactive dashboards
+Data and domain problems → Processing and intelligence → APIs and products → Useful decisions
 ```
 
-## Current focus
+## What I am building
 
-- Developing water-accounting dashboards using **WaPOR**, rainfall, land-use, and hydrological data
-- Automating geospatial data preparation, validation, aggregation, and visualization
-- Building map-centred interfaces for irrigation planning and climate-risk analysis
-- Comparing evapotranspiration and rainfall datasets for irrigation water-use assessment
-- Designing reproducible workflows that can scale from a county or basin to national and regional analysis
+- AI and LLM-powered tools, agents, retrieval workflows, and automation
+- Geospatial data pipelines, web maps, APIs, and analytical dashboards
+- SaaS products for small businesses, technical teams, and institutions
+- Water-accounting and Earth-observation applications using WaPOR and related datasets
+- Reusable software for cartography, environmental monitoring, and data visualization
 
 ## Selected work
+
+### AI and LLM Applications
+
+Exploring and building practical applications using large language models, structured prompting, retrieval-augmented generation, tool use, agents, and automated workflows.
+
+**Focus:** useful AI products, domain-specific assistants, document and data workflows, reliable outputs, and integration with existing software.
 
 ### WaPOR Water Accounting Dashboard
 
 Decision-support dashboard work for the WaPOR II Kenya programme, combining rainfall, evapotranspiration, water productivity, land-use, administrative, and basin-level indicators.
 
-**My contribution:** dashboard development, geospatial data preparation, analytical design, automation, visualization, testing, and technical documentation.
+**Contribution:** dashboard development, geospatial data preparation, analytical design, automation, visualization, testing, and technical documentation.
 
-**Tools and data:** Power BI, Python, WaPOR, CHIRPS, GIS boundaries, water-accounting indicators.
+**Tools and data:** Power BI, Python, WaPOR, CHIRPS, GIS boundaries, and water-accounting indicators.
 
 ### Geospatial Data Pipelines
 
 Workflows for preparing raster and vector data for dashboards and APIs, including reprojection, clipping, zonal statistics, temporal aggregation, geometry optimization, and quality checks.
 
-**Tools:** Python, GeoPandas, Rasterio, GDAL, PostgreSQL/PostGIS, QGIS.
+**Tools:** Python, GeoPandas, Rasterio, GDAL, PostgreSQL/PostGIS, and QGIS.
 
 ### Automated River-Network Cartography
 
 A reusable mapping workflow for generating river-network maps across countries, regions, counties, and basins using hydrography data and cartographic rules based on stream order.
 
-**Tools and data:** Python, QGIS, GeoPandas, HydroRIVERS/HydroSHEDS.
+**Tools and data:** Python, QGIS, GeoPandas, and HydroRIVERS/HydroSHEDS.
 
-### Irrigation Water-Use Uncertainty Analysis
+### SaaS and Business Software
 
-Technical work comparing evapotranspiration, rainfall, effective-precipitation methods, and irrigated-area datasets to assess uncertainty in irrigation water-use estimates.
+Designing practical software products such as point-of-sale systems, dashboards, management platforms, extensions, and automation tools, with an emphasis on usability and commercial viability.
 
-**Datasets:** WaPOR, CHIRPS, FLUXCOM, SSEBop, GLEAM, MODIS-derived products, IMERG, and local reference data.
-
-> Some of my current work is developed for institutional projects and cannot be published as complete source code. Where possible, I share reusable methods, sanitized examples, and independent demonstrations.
+> Some institutional and client work cannot be published as complete source code. Where possible, I share reusable methods, sanitized examples, and independent demonstrations.
 
 ## Core toolkit
+
+### AI, data, and automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM_Applications-111827?style=flat-square&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-5B21B6?style=flat-square&logo=githubactions&logoColor=white)
 
 ### Geospatial and Earth observation
 
@@ -77,34 +90,27 @@ Technical work comparing evapotranspiration, rainfall, effective-precipitation m
 ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat-square&logo=osgeo&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
 
-### Data, dashboards, and APIs
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### Web mapping
+### Product development
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-## Areas of interest
+## Current interests
 
-- Water accounting and water productivity
-- Irrigation and agricultural water management
-- Climate-risk and drought intelligence
-- Remote sensing and Earth-observation analytics
-- Environmental monitoring and ecosystem restoration
-- Open geospatial tools for African institutions and communities
+- AI agents and tool-using LLM systems
+- Retrieval-augmented generation and knowledge assistants
+- Geospatial AI and environmental intelligence
+- SaaS products and workflow automation
+- Water, climate, agriculture, and Earth-observation analytics
+- Open tools for African institutions, businesses, and communities
 
 ## Collaboration
 
-I am interested in collaborating on practical projects involving **geospatial intelligence, climate resilience, water resources, environmental data, and map-based decision-support systems**.
+I am open to practical collaborations involving **AI/LLMs, geospatial intelligence, SaaS, automation, dashboards, climate technology, and data products**.
 
 <div align="center">
 
@@ -112,12 +118,12 @@ I am interested in collaborating on practical projects involving **geospatial in
   <img src="https://img.shields.io/badge/Discuss_a_Project-00441B?style=for-the-badge&logo=gmail&logoColor=white" alt="Discuss a project by email" />
 </a>
 <a href="https://www.linkedin.com/in/alfrick-onyinkwa/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View professional profile" />
 </a>
 
 <br><br>
 
-<sub>Building useful geospatial systems for water, climate, and environmental decision-making.</sub>
+<sub>Building useful systems across geospatial technology, artificial intelligence, automation, and climate data.</sub>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6F50,50:00441B,100:0D1117&height=100&section=footer"
