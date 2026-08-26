@@ -19,23 +19,13 @@
 <br><br>
 
 <!-- Live GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=eth0-02&show_icons=true&theme=dark&bg_color=0D1117&title_color=1F6F50&icon_color=1F6F50&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eth0-02&layout=compact&theme=dark&bg_color=0D1117&title_color=1F6F50&text_color=C9D1D9&border_color=30363D&langs_count=8" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=eth0-02&show_icons=true&theme=dark&bg_color=0D1117&title_color=1F6F50&icon_color=1F6F50&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eth0-02&layout=compact&theme=dark&bg_color=0D1117&title_color=1F6F50&text_color=C9D1D9&border_color=30363D&langs_count=8" alt="Top Languages" height="175" />
 
-<br>
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=eth0-02&theme=dark&background=0D1117&ring=1F6F50&fire=1F6F50&currStreakLabel=1F6F50&sideLabels=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=6E7681&border=30363D" alt="GitHub Streak" />
-
-<br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eth0-02&theme=github-dark&bg_color=0D1117&color=1F6F50&line=1F6F50&point=FFFFFF&area=true&area_color=1F6F50&hide_border=true" alt="Contribution Graph" width="95%" />
-
-<br>
+<br><br>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=eth0-02&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%" />
+<img src="https://github-trophies.vercel.app/?username=eth0-02&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%" />
 
 </div>
 
